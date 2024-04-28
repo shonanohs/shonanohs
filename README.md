@@ -25,7 +25,7 @@ I am currently working as an API developer (after making the switch from Psychol
 ### 🗂️ Top Projects
   <p align="left">
         <a href="https://github.com/gracehogan/MuseumProject"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=gracehogan&repo=MuseumProject&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Museum Project"></a>
-    <a href="https://github.com/shonanohs/ContactManagementSystem"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=shonanohs&repo=ContactManagementSystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Contact Management System"></a>
+    <a href="https://github.com/shonanohs/contact-management-system"><img width="278" src="https://DenverCoder1-github-readme-stats.vercel.app/api/pin/?username=shonanohs&repo=contact-management-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Contact Management System"></a>
   </p>
 
 #
